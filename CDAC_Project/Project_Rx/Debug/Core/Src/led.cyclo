@@ -1,0 +1,3 @@
+../Core/Src/led.c:8:6:LedInit	1
+../Core/Src/led.c:22:6:LedOn	1
+../Core/Src/led.c:27:6:LedOff	1
